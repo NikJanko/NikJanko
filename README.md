@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @NikJanko
+- 👋 Hi, I’m @NikJanko <br>
 I like dinos :)
