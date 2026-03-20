@@ -17,5 +17,5 @@
 
 ## Quotes I think about daily
 
-"You can't waste time, you just pick what to do with your time" - David Lett
+"You can't waste time, you just pick what to do with your time" - David Lett <br>
 "You are powerful. As long as you don't look up" - Unknown
