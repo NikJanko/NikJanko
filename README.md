@@ -2,8 +2,6 @@
 
 > **Aspiring AI Researcher & Educator** | Neural Networks, Reinforcement Learning & Emerging AI Technologies
 
-I am an AI/ML research student, and future PhD student, dedicated to understanding intelligent systems and eventually sharing that knowledge as a professor. Outside of coding, I heavily enjoy studying things that interest me, keeping up with the news, hiking long trails and sight-seeing mountain ranges!
-
 ---
 
 ## Tools and Languages:
