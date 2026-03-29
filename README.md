@@ -20,5 +20,7 @@
 - "You can't waste time, you just pick what to do with your time" - David Lett
 - "You are powerful. As long as you don't look up" - Unknown
 
-![Coding Stats](https://wakatime.com/share/@Unrid/05f00fb9-7d8d-4fb1-b7f1-35cc16a214ef.svg)
+---
+
+![Coding Stats](https://wakatime.com/share/@Unrid/4340820c-d9d7-4f6b-b2ca-727e062cc909.svg)
 
