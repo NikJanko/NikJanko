@@ -1,5 +1,5 @@
-# 🦕 Nikola Jankovic
-
+# 🦕 Nikola Jankovic 
+Total Time Coding (as of installing wakatime): [![wakatime](https://wakatime.com/badge/user/6e0d28f5-1202-423b-ad90-e4ec1df5beb5.svg)](https://wakatime.com/@6e0d28f5-1202-423b-ad90-e4ec1df5beb5)
 > **Aspiring AI Researcher & Educator** | Neural Networks, Reinforcement Learning & Emerging AI Technologies
 
 ---
@@ -7,11 +7,17 @@
 ## Tools and Languages:
 
 **Programming Languages amd Libraries:** 
-- Python (Fluent) | Java (Conversational) | C/C++/C# (Learning) <br>
+- Python Java C/C++/C#
 - PyTorch, TensorFlow & Keras, NetworkX, Numpy & Pandas, SHAP, And many more...
 
 **Standard Languages:** 
-- English (Fluent) | Serbian (Conversational) | German (Learning) | French (Learning) | Italian (Learning)
+- English | Serbian | German | French | Italian
+
+---
+
+## Current Projects
+- Portfolio Website
+- Research Project (non-disclosed)
 
 ---
 
@@ -21,6 +27,4 @@
 - "You are powerful. As long as you don't look up" - Unknown
 
 ---
-
-![Coding Stats](https://wakatime.com/share/@Unrid/4340820c-d9d7-4f6b-b2ca-727e062cc909.svg)
 
